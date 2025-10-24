@@ -7,3 +7,6 @@ __pycache__/
 
 # Ignore .env
 .env
+
+# Ignore test api
+workshop/
